@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-	this is a bug file;
+	cout << "bug is solved." << endl;
+	return 0;
 }
